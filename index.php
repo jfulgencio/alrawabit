@@ -14,7 +14,7 @@
     <link rel="shortcut icon" href="images/favicon.ico" type="image/vnd.microsoft.icon"/>
     <link rel="icon" href="images/favicon.ico" type="image/x-ico"/>
 
-    <title>Circus Creative DMCC - Boutique Media and Communications for the Middle East</title>
+    <title>Circus Creative DMCC - Boutique Media & Communications for the Middle East</title>
 
 
     <link rel='stylesheet' href='revslider/public/assets/css/settings.css' type='text/css' media='all'/>
